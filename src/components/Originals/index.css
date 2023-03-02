@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.originals-container {
+  padding: 10px;
+  margin: 10px;
+  margin-bottom: 0px;
+}
+.side-heading {
+  font-family: 'HK Grotesk';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+  margin: 0;
+  margin-top: 12px;
+  margin-left: 32px;
+}

@@ -1,0 +1,28 @@
+.popular-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  padding-left: 32px;
+  padding-right: 19px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+@media (min-width: 768px) {
+  .popular-list {
+    margin-top: 32px;
+    padding-left: 165px;
+    padding-right: 135px;
+  }
+}
+
+.side-heading {
+  font-family: 'HK Grotesk';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+  margin: 0;
+  margin-top: 12px;
+  margin-left: 32px;
+}
